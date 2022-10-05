@@ -9,7 +9,7 @@
      . Day 91 - Day 110 : I will switch to Kotlin from java where I'll learn the syntax and make an Android project.<br>
      . Day 111 - Day 150 : I will make an Android Application which will solve the real world Problem.
      <br>
-     . On coming 150 days I'll also learn interview based questions including Networking and OS concepts.
+     . On coming 150 days I'll also be learning interview based questions including Networking and OS concepts.
      
 - 📫 How to reach me <br>
 Email    : mintuaman111@gmail.com <br>
