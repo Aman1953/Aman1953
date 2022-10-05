@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Aman1953
 - 👀 I’m interested in Mobile Application Development
-- 🌱 I’m currently learning Java and Android
+- 🌱 I’m currently learning Java and DSA and I have also started my "100 Days Of Code Challenge" on 30th September 2022.
+- 📚 I will be posting some interesting coding questions with solution daily on Linkedin as well as on GitHub.
+
 - 📫 How to reach me mintuaman111@gmail.com
 
 <!---
