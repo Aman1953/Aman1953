@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi, I’m Aman Kumar<br>👀 I’m interested in Mobile Application Development<br>📚 I will be posting some interesting coding questions with solution on Linkedin as well as on GitHub on daily basis.<br>
+👋Hi, I’m Aman Kumar<br>👀 I’m interested in Mobile Application Development<br>📚 I will be posting some interesting coding questions with solution on Linkedin as well as on GitHub on regular basis.<br>
 
 
 ## 🌐 Socials:
